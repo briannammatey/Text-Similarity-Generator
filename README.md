@@ -38,7 +38,8 @@ inputs: source1; source2
  given function to tests the code
 ### run_tests function
  runs tests to compares sources and identify the classification score to other texts
- ##Test example
+ ## Test example
  This is when compring scripts from musicals "In the Heights", "Hamilton", "Encanto", "Moana", and "BeetleJuice"
+ <img src ="https://user-images.githubusercontent.com/briannnammatey/Screenshot 2024-07-28 at 11.15.41 PM.png">
 
  
