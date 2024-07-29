@@ -39,7 +39,10 @@ inputs: source1; source2
 ### run_tests function
  runs tests to compares sources and identify the classification score to other texts
  ## Test example
- This is when compring scripts from musicals "In the Heights", "Hamilton", "Encanto", "Moana", and "BeetleJuice"
- <img src ="https://user-images.githubusercontent.com/briannnammatey/Screenshot 2024-07-28 at 11.15.41 PM.png">
+ This is when comparing scripts from musicals "In the Heights", "Hamilton", "Encanto", "Moana", and "BeetleJuice"
+<img src="https://raw.githubusercontent.com/briannammatey/Text-Similarity-Generator/main/fileOne.png" width=600>
 
+This is the results when running run_tests() method
+<br>
+<img src="https://raw.githubusercontent.com/briannammatey/Text-Similarity-Generator/main/fileTwo.png" width=600>
  
